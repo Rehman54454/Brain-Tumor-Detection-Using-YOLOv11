@@ -14,7 +14,7 @@ YOLOv11 is an advanced real-time object detection model designed to achieve high
 OpenCV (Open Source Computer Vision Library) is used for image processing tasks in this project. It helps in reading, displaying, and manipulating the images used for detection. OpenCV integrates seamlessly with YOLOv9, enabling effective and real-time detection.
 
 # **Model:**
-Download trained model trainable weights to load for real time testing from [here](https://universe.roboflow.com/brain-tumor-jolxi/brain-tumor-detection-o0ggc/dataset/2)
+Download trained model trainable weights to load for real time testing from [here](https://github.com/Rehman54454/Brain-Tumor-Detection-Using-YOLOv11/blob/main/best.pt)
 
 # **Dataset:**
 You can download and check dataset from [here](https://universe.roboflow.com/brain-tumor-jolxi/brain-tumor-detection-o0ggc/dataset/2)
