@@ -1,0 +1,3 @@
+ultralytics==8.0.20  # Replace with the version you used, if different
+opencv-python==4.8.0  # Replace with the version you used, if different
+pytesseract==0.3.10  # Replace with the version you used, if different
